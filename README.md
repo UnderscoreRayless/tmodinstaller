@@ -33,7 +33,7 @@ TMod Installer is a cross platform mod installer and updater you can use it with
 
 ## Why another mod installer
 
-Skyclient and Feather "client" are both windows only and don't support importing custom mod repos. This makes it tedious to add your own mods and keep them updated TMod Installer aims to fix this issue allowing anyone to maintain a repo with their favorite mods and update it themself
+Feather "client" is currently Windows only and paid, and it along with Skyclient don't support importing custom mod repos. This makes it tedious to add your own mods and keep them updated TMod Installer aims to fix this issue allowing anyone to maintain a repo with their favorite mods and update it themself
 
 ## TMod Installer art
 
